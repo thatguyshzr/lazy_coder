@@ -1,5 +1,5 @@
 # lazy_coder
-Save yourself 10 second of opening jupyter-notebook in a specified folder.
+Opens jupyter notebook in a specified folder on start up, so you don't have to spend 10 seconds doing it yourself.
 
 ## Instruction:
 1. Right click on the jupyter.bat file once you download it > click edit.
